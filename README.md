@@ -78,7 +78,8 @@ The primary objective of this project is to provide an easy-to-understand visual
 
 ## 📂 Project Files
 
-* https://github.com/heyankush8/HR-Analytics-Dashboard-Excel-/blob/main/Project.Data.xlsx
+* https://github.com/heyankush8/HR-Analytics-Dashboard-Excel/blob/main/Project.Data.xlsx
+* https://github.com/heyankush8/HR-Analytics-Dashboard-Excel/blob/main/1787127754682.jpg
 
 ## 👨‍💻 Project Type
 
